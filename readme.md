@@ -27,7 +27,7 @@ tasks are comparable.  Here are the tasks:
 3. **add a new file** "books.md" to the repo.  You can use RStudio
    (file -> new file -> markdown file), or any other tool you find
    convenient.
-   
+   add file
 4. add a numbered list of book you like to this file
    (see [Github markdown
    docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)). 
@@ -37,7 +37,7 @@ tasks are comparable.  Here are the tasks:
 5. check **git status** (see [course book
    4.4.1](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-situational-awareness)).
    Show below, in _block quote_, what does it print.
-   
+   new file 
    Explain, in plain text, what does it mean.
    
 6. **add** the new file to the repository (see [course book
